@@ -1,0 +1,25 @@
+.coupon {
+/* {  border: 5px dotted #bbb;}          Dotted border */
+  width: 40%;
+  border-radius: 15px;
+ /* Rounded border */
+   /* Center the coupon */
+  /* max-width: 500px; */
+  /* display: flex; */
+  /* margin-right: 500px; */
+  margin: 10px 300px 10px 100px;
+}
+
+.container {
+  padding: 2px 16px;
+  background-color: #f1f1f1;
+}
+
+.promo {
+  background: #ccc;
+  padding: 3px;
+}
+
+.rs {
+  color: rgb(74, 74, 74);
+}

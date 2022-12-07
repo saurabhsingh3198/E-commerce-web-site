@@ -1,0 +1,41 @@
+.container{
+  
+    width: 100%;
+    margin-top:2vw;
+    margin-left:10vw;
+
+}
+.containerImage{
+    margin-top: 5vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+.img{
+    width: 23.5vw;
+    height: 18rem;
+    border-radius: 1rem;
+    background-color: rgb(247, 247, 236);
+}
+.img {
+    /* padding: 50px; */
+    /* background-color: green; */
+    transition: transform .1s; /* Animation */
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+  }
+  
+  .card:hover {
+    transform: scale(1.1);
+  
+}
+.card{
+   
+    transition: transform .1s; /* Animation */
+    margin-right: 1vw;
+    margin-bottom: 5%;
+    border: 5px dotted #bbb;
+    border-radius: 15px;
+    background-color: rgb(207, 231, 188);
+    
+}
